@@ -1,4 +1,4 @@
-package junior.hw2;
+package hw2;
 
 import java.lang.annotation.*;
 

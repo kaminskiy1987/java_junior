@@ -1,9 +1,9 @@
-package junior.hw2;
+package hw2;
 
 import java.lang.annotation.*;
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 
-public @interface Skip {   
+public @interface Skip {
 }
